@@ -15,3 +15,5 @@ If you have any suggestions or found a bug, please open an issue on the GitHub p
 Made with AdminLTE.
 
 Disclaimer: I'm not a web developer. Don't check the HTML code. Seriously, don't.
+
+This project has no connection to ISO or the C++ Standard Committee.
